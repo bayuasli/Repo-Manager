@@ -44,6 +44,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Tetap terhubung untuk mendapatkan pembaruan, tutorial, dan alat bantu pengembang lainnya:
 
-- 🎵 TikTok: https://www.tiktok.com/@hanzcode1
-- 📺 YouTube: https://www.youtube.com/@hanzcode
-- 💻 GitHub: https://github.com/hanzcode1/
+- 🎵 TikTok: https://www.tiktok.com/@sibayuxd
+- 📺 YouTube: https://www.youtube.com/@BayuCrasher
+- 💻 GitHub: https://github.com/bayuasli
